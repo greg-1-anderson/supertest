@@ -1,6 +1,6 @@
 <?php
 
-namespace ExampleProject;
+namespace Supertest;
 
 use PHPUnit\Framework\TestCase;
 

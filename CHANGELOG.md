@@ -4,8 +4,6 @@
 
 * List pending changes here.
 
-### 0.1.0 - 2018/Mar/13
+### 0.1.0 - 2018/Jul/15
 
-* Customize source files when creating new project
-* Create new GitHub repository and push code to it
-* Enable Travis testing for new repository
+* Created from template `greg-1-anderson/supertest`
